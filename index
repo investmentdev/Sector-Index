@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>شاخص صنایع</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      overflow: hidden;
+    }
+    iframe {
+      border: none;
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</head>
+<body>
+  <iframe 
+    src="https://app.powerbi.com/view?r=eyJrIjoiMWVhM2ZiYmYtY2Q1My00ZDc3LWFiY2EtNzk4YTc2Y2U4ZTY2IiwidCI6ImZhYjM1MThlLTVkOWMtNDU0OS04Yjg1LTU5YmRkYjQ1Nzk0ZSIsImMiOjN9"
+    allowfullscreen="true">
+  </iframe>
+</body>
+</html>
